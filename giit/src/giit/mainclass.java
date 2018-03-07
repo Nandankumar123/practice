@@ -2,6 +2,6 @@ package giit;
 
 public class mainclass {
 	public static void main(String []args) {
-		System.out.println("hiiiiiiiiiiii");
+		System.out.println("hiiiiiiiiiiii nandu nindu");
 	}
 }
