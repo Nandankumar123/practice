@@ -1,9 +1,9 @@
 
-public class demo1 {
+public class Today {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("nandan");
+		System.out.println("hiiihelllooo");
 	}
 
 }
